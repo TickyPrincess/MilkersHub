@@ -3,11 +3,13 @@
 ## Phase 1 — GitHub foundation
 - [x] Repository structure
 - [x] Issue + PR templates
-- [ ] First weekly update post
+- [x] Contributor and conduct docs
+- [x] Markdown CI workflow
+- [x] First updates published
 
 ## Phase 2 — Community operations
-- [ ] Public update cadence (weekly)
-- [ ] Contributor roles and ownership
+- [ ] Weekly reporting rhythm
+- [ ] Maintainer ownership map
 - [ ] Transparency dashboard format
 
 ## Phase 3 — Growth and accountability
